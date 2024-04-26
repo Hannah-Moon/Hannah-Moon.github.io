@@ -21,18 +21,16 @@ html(5.1.1),css(3.1.1), js(ES6)
 ## ✔️ Memo
 
 ### Landing Page
-
 <div align="center">
 <img width="500" alt="image" src="img/h_aboutMe.gif">
 
-
 ### Media integration
-
-![careerpage](src=img/h_mediaIntegration.gif)
+<div align="center">
+<img width="500" alt="image" src="img/h_mediaIntegration.gif">
 
 ### Skills
-
-![skillpage](src=img/h_aboutMe.gif)
+<div align="center">
+<img width="500" alt="image" src="img/h_aboutMe.gif">
 
 
 
@@ -41,4 +39,4 @@ html(5.1.1),css(3.1.1), js(ES6)
 
 | Mobile                                                                                                     | 
 | ---------------------------------------------------------------------------------------------------------- |
-| ![mobile](src=img/h_mobileView.gif) | 
+| <img width="500" alt="image" src="h_mobileView.gif"> |
