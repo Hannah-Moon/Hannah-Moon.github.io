@@ -22,24 +22,21 @@ html(5.1.1),css(3.1.1), js(ES6)
 
 ### Landing Page
 
-![mainhomepage](src=)
+![mainhomepage](src=img/h_aboutMe.gif)
 
 ### Media integration
 
-![careerpage]()
+![careerpage](src=img/h_mediaIntegration.gif)
 
 ### Skills
 
-![skillpage]()
-
-### Project 
-
-![project]()
+![skillpage](src=img/h_aboutMe.gif)
 
 
 
-### Differents screen size
 
-| Mobile                                                                                                     | Tablet                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| ![mobile]() | ![tablet]() |
+### Different screen size
+
+| Mobile                                                                                                     | 
+| ---------------------------------------------------------------------------------------------------------- |
+| ![mobile](src=img/h_mobileView.gif) | 
