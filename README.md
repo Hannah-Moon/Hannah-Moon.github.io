@@ -22,7 +22,9 @@ html(5.1.1),css(3.1.1), js(ES6)
 
 ### Landing Page
 
-![mainhomepage](src=img/h_aboutMe.gif)
+<div align="center">
+<img width="500" alt="image" src="img/h_aboutMe.gif">
+
 
 ### Media integration
 
