@@ -39,4 +39,4 @@ html(5.1.1),css(3.1.1), js(ES6)
 
 | Mobile                                                                                                     | 
 | ---------------------------------------------------------------------------------------------------------- |
-| <img width="500" alt="image" src="h_mobileView.gif"> |
+| <img width="200" alt="image" src="img/h_mobileView.gif"> |
