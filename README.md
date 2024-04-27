@@ -8,7 +8,7 @@
   
 ## 📖 Time and link
 
-> 📆 Duration of work: December 2020 ~ {resent </br>
+> 📆 Duration of work: December 2020 ~ present </br>
 > 🔗 Live link: [Portfolio](https://hannah-moon.github.io/home.html) </br>
 
 ## ✔️ Tools 
